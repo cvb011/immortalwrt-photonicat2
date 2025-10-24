@@ -8,6 +8,7 @@ rockchip_setup_interfaces()
 
 	case "$board" in
 	ariaboard,photonicat|\
+	ariaboard,photonicat2|\
 	armsom,sige7|\
 	ezpro,mrkaio-m68s|\
 	firefly,rk3568-roc-pc|\
